@@ -1,5 +1,5 @@
 #  About Me:
-I'm a developer and student currently pursuing Bachelor of Technology specialising in Computer Sciences.
+I'm a student and developer currently pursuing my Bachelor of Technology specialising in Computer Sciences.
 
 
 ## 🌐 Socials:
