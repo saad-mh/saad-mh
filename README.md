@@ -13,6 +13,6 @@ I'm a student and developer currently pursuing my Bachelor of Technology special
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saad-mh&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarsaad-mhghpvc/?username=saad-mh&icon=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=saad-mh&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
